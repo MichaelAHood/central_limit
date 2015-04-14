@@ -3,6 +3,6 @@ This is a workbook where I play around with the relationship between the CLT and
 
 I start by simulating a coin toss for a certain number of trials and then count the proportion of tosses that were heads.
 
-Then, I repeat the same experiment a rediculous number of times, plot the results in a histogram, and repeat until I
+Then, I repeat the same experiment a ridiculous number of times, plot the results in a histogram, and repeat until I
 end up with something that begins to look like a bell curve.
 
