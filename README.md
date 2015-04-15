@@ -6,3 +6,7 @@ I start by simulating a coin toss for a certain number of trials and then count 
 Then, I repeat the same experiment a ridiculous number of times, plot the results in a histogram, and repeat until I
 end up with something that begins to look like a bell curve.
 
+This project is best viewed through the iPython Notebook Viewer:
+
+http://nbviewer.ipython.org/github/MichaelAHood/
+
