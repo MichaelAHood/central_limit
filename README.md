@@ -8,5 +8,5 @@ end up with something that begins to look like a bell curve.
 
 This project is best viewed through the iPython Notebook Viewer:
 
-http://nbviewer.ipython.org/github/MichaelAHood/
+http://nbviewer.ipython.org/github/MichaelAHood/central_limit/blob/master/central_limit.ipynb
 
